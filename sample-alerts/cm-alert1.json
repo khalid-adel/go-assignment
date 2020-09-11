@@ -1,0 +1,10 @@
+{
+    "ServiceType": "CM",
+    "Alert": {
+        "ID": "ER1122", 
+        "Level": "Minor", 
+        "Info": "No Data Found", 
+        "Cause": "No Schema Found",
+        "ServiceID": "CM500"
+    }
+}

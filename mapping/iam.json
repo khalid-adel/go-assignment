@@ -1,0 +1,7 @@
+{
+    "FaultName": "Name",
+    "FaultSource": "ServiceName",
+    "Severity": "Priority",
+    "Description": "Info",
+    "Reason": "Cause"
+}

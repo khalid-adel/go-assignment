@@ -1,0 +1,10 @@
+{
+    "ServiceType": "IAM",
+    "Alert": {
+        "Name": "WX300",
+        "ServiceName": "IAM300",
+        "Priority": "Major",
+        "Info": "Memory Error",
+        "Cause": "No Enough Memory"
+    }
+}
